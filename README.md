@@ -22,7 +22,6 @@ https://m5stack.com/products/atom-matrix-esp32-development-kit
 
 Arduino IDE
 https://www.arduino.cc/en/software
-![](https://i.imgur.com/WY9MFUe.png)
 
 Install ESP32 boards, https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md
 
@@ -33,6 +32,7 @@ Install additional Arduino libraries (Sketch>Include Library>Manage Libaries),
 * ArduinoJson
 * Adafruit_GFX
 * FASTled
+
 
 
 
