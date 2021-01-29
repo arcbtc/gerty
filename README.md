@@ -1,15 +1,15 @@
 # Gerty
 
 
-### Gerty thinking :/
+### Gerty thinking
 
 ![](https://i.imgur.com/9riDF5J.gif)
 
-###  Gerty connected to LND :)
+###  Gerty connected to LND
 
 ![](https://i.imgur.com/pUGqNP6.gif)
 
-###  Gerty not connecting to LND :(
+###  Gerty not connected to LND
 
 ![](https://i.imgur.com/arAf1N6.gif)
 
