@@ -33,6 +33,9 @@ Install additional Arduino libraries (Sketch>Include Library>Manage Libaries),
 * Adafruit_GFX
 * FASTled
 
+## Install instructions
+Once you have all the above, download this sketch, open gerty.ino, flash to M5Atom 😘
+
 
 
 
