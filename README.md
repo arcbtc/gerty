@@ -26,8 +26,13 @@ https://www.arduino.cc/en/software
 
 Install ESP32 boards, https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md
 
-Install additional Arduino libraries (Sketch>Include Library>Manage Libaries) 
-M5Atom, Adafruit_NeoMatrix, Adafruit_NeoPixel, ArduinoJson, Adafruit_GFX, FASTled
+Install additional Arduino libraries (Sketch>Include Library>Manage Libaries),
+* M5Atom 
+* Adafruit_NeoMatrix
+* Adafruit_NeoPixel
+* ArduinoJson
+* Adafruit_GFX
+* FASTled
 
 
 
