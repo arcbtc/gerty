@@ -23,7 +23,7 @@
 
 ###  Passing wifi and LND details to Gerty
 
-![](https://i.imgur.com/UIwvF5B.gif)
+![](https://i.imgur.com/UO2FhL2.gif)
 
 
 
