@@ -14,7 +14,7 @@ Includes access point for easy setup!
 | ------------- | ------------- | ------------- |
 | ![](https://i.imgur.com/tctmGmz.gif)  | ![](https://i.imgur.com/rQmJQty.gif)  | ![](https://i.imgur.com/kAFxcCY.gif) |
 
-### Hadware
+### Hardware
 M5Atom 
 https://m5stack.com/products/atom-matrix-esp32-development-kit
 
