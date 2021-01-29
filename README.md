@@ -1,6 +1,5 @@
 # Gerty
 
-<center>
 ### Gerty thinking
 
 ![](https://i.imgur.com/9riDF5J.gif)
@@ -25,5 +24,8 @@
 
 ![](https://i.imgur.com/UO2FhL2.gif)
 
-</center>
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
