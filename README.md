@@ -2,6 +2,8 @@
 
 ## LND node monitor
 
+> <i>Join our <a href="https://t.me/makerbits">telegram support/chat</a>.</i>
+
 Gerty will monitor your LND node is online, down or has received a transaction. 
 
 Includes access point for easy setup!
