@@ -33,10 +33,11 @@ Install additional Arduino libraries (Sketch>Include Library>Manage Libaries),
 * Adafruit_NeoPixel
 * ArduinoJson
 * Adafruit_GFX
-* FASTled
+* FastLED
+* WiFiManager
 
 ## Install instructions
-Once you have all the above, download this sketch, open gerty.ino, flash to M5Atom 😘
+Once you have all the above, download this sketch, open gerty.ino, select Tools > Board > M5 ATOM, flash to M5Atom 😘
 
 
 
